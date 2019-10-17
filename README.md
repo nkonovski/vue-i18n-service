@@ -1,3 +1,6 @@
+# Note
+This fork support nuxtjs folders components and pages
+
 # vue-i18n-service
 
 The translation team (not developers) wants **a** file with all the keys to translate. But I love to use translations in **Single File Components**.
